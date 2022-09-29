@@ -48,7 +48,7 @@ int main (){
         cout << "El minimo numero par es: " << minpar << endl;
         cout << "El ultimo numero positivo es : " << ultimo << endl;
         cout << "El ante ultimo numero positivo es : " << anteUltimo<< endl;
-
+        system("pause");
 
 
     }
